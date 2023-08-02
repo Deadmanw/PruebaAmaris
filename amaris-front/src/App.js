@@ -59,13 +59,13 @@ function App() {
     <div className="container mt-5">
       <div className="row">
         <div className="col-md-6">
-          <label htmlFor="id" className="form-label">Enter ID:</label>
+          <label htmlFor="id" className="form-label">Ingrese la ID del empleado:</label>
           <div className="input-group">
             <input
               type="text"
               id="id"
               className="form-control"
-              placeholder="Enter ID"
+              placeholder="Ingrese ID"
               value={id}
               onChange={(e) => setId(e.target.value)}
             />

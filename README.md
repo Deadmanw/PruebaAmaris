@@ -24,6 +24,11 @@
 - El servidor debería desplegar automáticamente la aplicación.
 - Una vez que la aplicación esté desplegada, abre un navegador web y accede a la URL de la aplicación. Por ejemplo, si estás ejecutando Tomcat en tu máquina local, puedes acceder a http://localhost:8080/api/employee/getEmployeeList se mostrara el listado de empleados o un mensaje de error segun corresponda.
 
+
+![](https://github.com/Deadmanw/PruebaAmaris/blob/main/images/Screenshot_1.jpg)
+![](https://github.com/Deadmanw/PruebaAmaris/blob/main/images/Screenshot_2.jpg)
+
+
 ##### Opciones Adicionales
 Si deseas compilar el proyecto desde el código fuente, sigue estos pasos:
 
@@ -82,3 +87,5 @@ npm run build
 
 El comando anterior generará una carpeta llamada build que contiene los archivos estáticos listos para ser desplegados en un servidor web.
 
+![](https://github.com/Deadmanw/PruebaAmaris/blob/main/images/Screenshot_3.jpg)
+![](https://github.com/Deadmanw/PruebaAmaris/blob/main/images/Screenshot_4.jpg)
